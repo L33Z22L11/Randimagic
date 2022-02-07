@@ -1,10 +1,8 @@
 {
-    "name": "L33Z22L11/Randimadic",
-    "description": "",
+    "name": "l33z22l11/randimadic",
+    "description": "A simple image API",
     "require": {
         "php": "7.4.x",
-        "slim/slim": "^3.0",
-        "leancloud/leancloud-sdk": "^0.14",
-        "slim/php-view": "^2.1"
+        "leancloud/leancloud-sdk": "^0.14"
     }
 }
